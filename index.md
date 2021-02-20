@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Lets talk tech
 
-I'm glad you are here. I plan to talk about ...
+We're all influenced by tech....so don't resist, embrace it
